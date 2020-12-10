@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tastatura_arduino", "tastatura_arduino\tastatura_arduino.csproj", "{31483F74-7B3E-4866-B9DC-B0A625431D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31483F74-7B3E-4866-B9DC-B0A625431D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31483F74-7B3E-4866-B9DC-B0A625431D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31483F74-7B3E-4866-B9DC-B0A625431D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31483F74-7B3E-4866-B9DC-B0A625431D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF04E80-958B-4166-ACA7-97068A25B592}
+	EndGlobalSection
+EndGlobal

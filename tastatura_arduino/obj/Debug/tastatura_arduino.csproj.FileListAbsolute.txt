@@ -1,0 +1,39 @@
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.exe.config
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.exe
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.pdb
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csprojAssemblyReference.cache
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.Form1.resources
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.Properties.Resources.resources
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csproj.GenerateResource.cache
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csproj.CoreCompileInputs.cache
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.exe
+D:\sie_laborator\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.pdb
+D:\work\SIE\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.exe.config
+D:\work\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.exe
+D:\work\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.pdb
+D:\work\SIE\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.exe
+D:\work\SIE\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.pdb
+D:\work\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csprojResolveAssemblyReference.cache
+D:\work\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.Form1.resources
+D:\work\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.Properties.Resources.resources
+D:\work\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csproj.GenerateResource.Cache
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.exe.config
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.exe
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.pdb
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csprojAssemblyReference.cache
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.Form1.resources
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.Properties.Resources.resources
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csproj.GenerateResource.cache
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csproj.CoreCompileInputs.cache
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.exe
+D:\work\IDP_CURS3\SIE\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.exe.config
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\bin\Debug\tastatura_arduino.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csprojAssemblyReference.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.Form1.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.Properties.Resources.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csproj.GenerateResource.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.csproj.CoreCompileInputs.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\SIE LAB\Lab7-8_15-11-2019\lab7-8\tastatura_arduino\tastatura_arduino\obj\Debug\tastatura_arduino.pdb
